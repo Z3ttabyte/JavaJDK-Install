@@ -7,3 +7,5 @@ Lo instala
 Setea las variables de Entorno.
 
 Probado en: Debian, Ubuntu
+
+Ubicacion de la Instalacion: /opt/
